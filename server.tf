@@ -1,6 +1,3 @@
-#provider "sakuracloud" {
-#}
-
 data sakuracloud_archive "ubuntu" {
     filter = {
         name = "Name"
